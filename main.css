@@ -1,0 +1,59 @@
+body{
+    color: #333;
+    text-align: center;
+    /* 일반폰트 */
+    font-family: "Noto Sans KR";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%; /* 18px */
+    letter-spacing: -0.18px;
+}
+
+.title{
+    color: #111;
+    /* 타이틀폰트 */
+    font-family: "Noto Sans KR";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.link{
+    color: #333;
+    /* 네비폰트 */
+    font-family: "Noto Sans KR";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 18px */
+    letter-spacing: -0.18px;
+}
+
+/* 글자색깔 */
+.activeColor{
+    color : #02AE74
+}
+
+.pointColor{
+    color: #FF3D43
+}
+
+.baseColor{
+    color: #333
+}
+
+
+/* 배경색깔 */
+.activeBgColor{
+    background-color : #02AE74
+}
+
+.pointBgColor{
+    background-color: #FF3D43
+}
+
+.baseBgColor{
+    background-color: #333
+}
